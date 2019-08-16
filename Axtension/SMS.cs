@@ -20,7 +20,7 @@ namespace Axtension
             m.Port = 25;
             m.SSL = false;
             m.Account = "sms@strapper.net";
-            m.Password = "d3edfr0gcaf3";
+            m.Password = "***********";
             try
             {
                 m.Shriek("sms@strapper.net", recipient + "@directsms.com.au", string.Empty, message);
