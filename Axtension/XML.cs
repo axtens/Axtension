@@ -12,7 +12,6 @@ namespace Axtension
 {
     public static class XML
     {
-
         public static string PrettyXml(string xml, bool ansi = true, bool omitXMLDeclaration = true, bool indent = true, bool newLineOnAttributes = true)
         {
 
